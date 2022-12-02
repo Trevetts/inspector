@@ -13,14 +13,5 @@
         "files": [
             "src/helpers.php"
         ]
-    },
-    "require": {
-        "lsrur/toolbelt" : "dev-main" 
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/trevetts/toolbelt"
-        }
-    ]
+    }
 }
