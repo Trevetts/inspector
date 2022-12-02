@@ -1,0 +1,59 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "899efb90ed69514bf282fbf508ede759",
+    "packages": [
+        {
+            "name": "lsrur/toolbelt",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:Trevetts/toolbelt.git",
+                "reference": "0c63e4c92e6653d6d3238c2e3e16377e845017d4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Trevetts/toolbelt/zipball/0c63e4c92e6653d6d3238c2e3e16377e845017d4",
+                "reference": "0c63e4c92e6653d6d3238c2e3e16377e845017d4",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "src/Toolbelt.php"
+                ]
+            },
+            "license": [
+                "MIT"
+            ],
+            "description": "Set of PHP helper functions wrapped for Laravel.",
+            "keywords": [
+                "functions",
+                "helpers",
+                "laravel",
+                "php",
+                "tools"
+            ],
+            "support": {
+                "source": "https://github.com/Trevetts/toolbelt/tree/main",
+                "issues": "https://github.com/Trevetts/toolbelt/issues"
+            },
+            "time": "2022-12-02T15:54:33+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "lsrur/toolbelt": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.2.0"
+}

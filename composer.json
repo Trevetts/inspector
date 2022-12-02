@@ -15,6 +15,12 @@
         ]
     },
     "require": {
-        "lsrur/toolbelt" : "0.3.*" 
-    }
+        "lsrur/toolbelt" : "dev-main" 
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/trevetts/toolbelt"
+        }
+    ]
 }
